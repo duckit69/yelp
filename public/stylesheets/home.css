@@ -1,0 +1,12 @@
+
+body {
+    height: 100vh;
+    background: url(https://res.cloudinary.com/dxfxc684j/image/upload/v1679088060/Yelp_Project/bjr9rn14r56khx0dbw8e.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+.cover-container {
+    max-width: 60vw;
+    min-height: 100vh;
+}
